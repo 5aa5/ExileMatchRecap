@@ -1,0 +1,78 @@
+{
+  "exilerecap": {
+    "settings": {
+      "enabled": {
+        "name": "Show match recaps"
+      },
+      "displaySeconds": {
+        "name": "Display time (seconds)"
+      },
+      "subtleMotion": {
+        "name": "Subtle entrance and exit motion"
+      },
+      "floatingBlocks": {
+        "name": "Floating pixel blocks"
+      }
+    },
+    "hud": {
+      "title": "MATCH RECAP",
+      "duration": "Duration",
+      "gold": "Gold earned",
+      "noStats": "No detailed stats",
+      "durationValue": "%sm %ss"
+    },
+    "results": {
+      "victory": "VICTORY",
+      "defeat": "DEFEAT",
+      "draw": "DRAW"
+    },
+    "games": {
+      "bedwars": "BedWars",
+      "skywars": "SkyWars",
+      "timv": "Trouble in Minevilla",
+      "tntrun": "TNT Run",
+      "tnttag": "TNT Tag",
+      "spleef": "Spleef",
+      "blockparty": "Block Party",
+      "murdermystery": "Murder Mystery",
+      "splegg": "Splegg"
+    },
+    "modes": {
+      "solo": "Solo",
+      "doubles": "Doubles",
+      "teams": "Teams",
+      "classic": "Classic",
+      "default": "Standard",
+      "assassins": "Assassins"
+    },
+    "stats": {
+      "kills": "Kills",
+      "final_kills": "Final kills",
+      "beds_broken": "Beds broken",
+      "assists": "Assists",
+      "placement": "Placement",
+      "rounds_survived": "Rounds survived",
+      "survival_seconds": "Survival time",
+      "blocks_broken": "Blocks broken",
+      "traitor_kills": "Traitors eliminated",
+      "innocent_kills": "Innocents eliminated",
+      "detective_kills": "Detectives eliminated",
+      "coins": "Coins",
+      "chests_opened": "Chests opened",
+      "tags": "Tags",
+      "deaths": "Deaths",
+      "final_deaths": "Final deaths",
+      "kdr": "K/D ratio"
+    },
+    "hudWidget": {
+      "match_recap": {
+        "name": "Match Recap"
+      }
+    },
+    "hudWidgetCategory": {
+      "exilerecap": {
+        "name": "EXILE"
+      }
+    }
+  }
+}

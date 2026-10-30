@@ -1,0 +1,78 @@
+{
+  "exilerecap": {
+    "settings": {
+      "enabled": {
+        "name": "إظهار ملخص المباراة"
+      },
+      "displaySeconds": {
+        "name": "مدة العرض (بالثواني)"
+      },
+      "subtleMotion": {
+        "name": "حركة ظهور واختفاء خفيفة"
+      },
+      "floatingBlocks": {
+        "name": "بلوكات صغيرة طافية"
+      }
+    },
+    "hud": {
+      "title": "ملخص المباراة",
+      "duration": "المدة",
+      "gold": "الذهب المكتسب",
+      "noStats": "لا توجد إحصائيات إضافية",
+      "durationValue": "%s د %s ث"
+    },
+    "results": {
+      "victory": "فوز",
+      "defeat": "خسارة",
+      "draw": "تعادل"
+    },
+    "games": {
+      "bedwars": "BedWars",
+      "skywars": "SkyWars",
+      "timv": "Trouble in Minevilla",
+      "tntrun": "TNT Run",
+      "tnttag": "TNT Tag",
+      "spleef": "Spleef",
+      "blockparty": "Block Party",
+      "murdermystery": "Murder Mystery",
+      "splegg": "Splegg"
+    },
+    "modes": {
+      "solo": "فردي",
+      "doubles": "ثنائي",
+      "teams": "فرق",
+      "classic": "كلاسيكي",
+      "default": "عادي",
+      "assassins": "القتلة"
+    },
+    "stats": {
+      "kills": "القتلات",
+      "final_kills": "القتلات النهائية",
+      "beds_broken": "الأسرّة المدمرة",
+      "assists": "المساعدات",
+      "placement": "المركز",
+      "rounds_survived": "الجولات الناجية",
+      "survival_seconds": "وقت النجاة",
+      "blocks_broken": "البلوكات المكسورة",
+      "traitor_kills": "الخونة المقصون",
+      "innocent_kills": "الأبرياء المقصون",
+      "detective_kills": "المحققون المقصون",
+      "coins": "العملات",
+      "chests_opened": "الصناديق المفتوحة",
+      "tags": "تمريرات TNT",
+      "deaths": "الوفيات",
+      "final_deaths": "الوفيات النهائية",
+      "kdr": "نسبة القتلات للوفيات"
+    },
+    "hudWidget": {
+      "match_recap": {
+        "name": "ملخص المباراة"
+      }
+    },
+    "hudWidgetCategory": {
+      "exilerecap": {
+        "name": "EXILE"
+      }
+    }
+  }
+}
